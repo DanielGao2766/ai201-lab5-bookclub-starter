@@ -1,0 +1,22 @@
+Seed data created successfully.
+  Users:  3 (alex, priya, marcus)
+  Books:  10
+  Events: 8
+
+User IDs (use these to test the API):
+  alex:   75859204-e190-43a8-92d0-6ef0ff2e7f11
+  priya:  dc233639-4e48-4a87-9582-7d25d8edeacb
+  marcus: dc245a1b-e173-4fcb-926b-b716c9ca2474
+
+
+New Seed Data: 
+
+Seed data created successfully.
+  Users:  3 (alex, priya, marcus)
+  Books:  10
+  Events: 8
+
+User IDs (use these to test the API):
+  alex:   06057f65-617b-410b-bb10-8dbbcd5ae3e8
+  priya:  e9447f02-3474-4227-8af9-6c5654df64ce
+  marcus: 345ed49a-e64d-4dae-99d2-bf7babb9ca68

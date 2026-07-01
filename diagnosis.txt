@@ -1,0 +1,13 @@
+Bug # 1 (Streak not appearing)
+
+The docstring says: num of consecutive days based on when the user finished the book
+The code does:  set(e.started_at.date() for e in events),; with `started_at`
+The bug is on line 35
+The fix is: set(e.finished_at.date() for e in events),
+
+Bug #2 (Formatting not displaying properly)
+
+The docstring says: returns a list of ReadingEvent objects ordered by finished_at descending 
+The code does ReadingEvent.started_at.desc()
+The bug is on line: 124 of AI201-Lab5/services/reading_service.py
+The fix is: ReadingEvent.finished_at.desc()
